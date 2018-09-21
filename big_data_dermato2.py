@@ -1,5 +1,5 @@
-from pyspark.mllib.classification import NaiveBayes, NaiveBayesModel
-from pyspark.mllib.util import MLUtils
+#from pyspark.mllib.classification import NaiveBayes, NaiveBayesModel
+#from pyspark.mllib.util import MLUtils
 from pyspark.context import SparkContext
 from pyspark.sql.session import SparkSession
 
